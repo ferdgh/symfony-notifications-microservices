@@ -1,4 +1,4 @@
-# Microservices Application
+# Microservices Application (Notifications)
 
 This is a microservices application consisting of two services, "users" and "notifications", that communicate via a message bus.
 
