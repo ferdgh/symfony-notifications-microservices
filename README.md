@@ -16,6 +16,7 @@ The "notifications" service consumes the event and saves the sent data in a log 
 4. Clone the repository from GitHub:
 
    ```bash
+   git clone https://github.com/ferdgh/symfony-microservices.git
    git clone https://github.com/ferdgh/symfony-notifications-microservices.git
 
 ## Running
